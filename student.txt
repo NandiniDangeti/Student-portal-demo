@@ -1,0 +1,6 @@
+student Name
+Student Id
+Student mobile number
+Student Enrollment id
+previous hallticket number
+Are need for student portal
